@@ -1,8 +1,0 @@
-{
-  "media_path": "/media",
-  "port": 8765,
-  "tmdb_api_key": "",
-  "data_dir": "/data",
-  "scan_interval_seconds": 300,
-  "auth_token": ""
-}

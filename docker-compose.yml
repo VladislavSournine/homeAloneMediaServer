@@ -1,9 +1,0 @@
-services:
-  homeplayer:
-    build: .
-    ports:
-      - "${PORT:-8765}:8765"
-    volumes:
-      - "${MEDIA_PATH:?MEDIA_PATH is required — copy .env.example to .env and set your media path}:/media:ro"
-      - "${DATA_DIR:-./data}:/data"
-    restart: unless-stopped

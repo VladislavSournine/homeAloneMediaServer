@@ -1,6 +1,6 @@
 # homeAloneMediaServer
 
-Lightweight media server for local MP4/subtitle libraries. Works with **homeAlonePlayer** (Android/Fire TV). Runs on Keenetic routers or any Linux/Raspberry Pi machine.
+Lightweight media server for local MP4/subtitle libraries. Works with [homeAlonePlayer](https://github.com/VladislavSournine/homeAlonePlayer) (Android/Fire TV). Runs on Keenetic routers or any Linux/Raspberry Pi machine.
 
 ## Features
 
